@@ -1,3 +1,4 @@
+//string reverse then find postfix and then again reverse it/
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
